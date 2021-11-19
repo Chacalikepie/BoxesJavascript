@@ -1,0 +1,24 @@
+/* This is the CSS file for YOUR Web Box*/
+html {
+    background: #485354;
+}
+
+body {
+    background-color: #485354;
+}
+
+.box {
+    background-color: #000080;
+    border-radius: 10px;
+    width: 50vw;
+    height: 30vh;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px dashed green;
+}
+
+p {
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+}
